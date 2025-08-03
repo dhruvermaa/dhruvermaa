@@ -26,7 +26,7 @@ I'm a Business Analytics enthusiast passionate about turning data into actionabl
 | Project | Description | Tools |
 |--------|-------------|-------|
 | [🍕 Pizza Sales Dashboard](https://github.com/dhruvermaa/Pizza-Sales-Dashboard-tableau-) | Analyzes sales, AOV, top items, and order trends | Tableau |
-| [📊 Blinkit Sales Dashboard]() | Excel dashboard with slicers, KPIs, and monthly sales analysis | Excel |
+| [📊 Blinkit Sales Dashboard](https://github.com/dhruvermaa/BlinkIt-Analysis-Dashboard) | Excel dashboard with slicers, KPIs, and monthly sales analysis | Excel |
 
 
 ---
