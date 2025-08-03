@@ -8,7 +8,7 @@
 
 ## 🔍 About Me
 
-I'm Dhruv Verma — a Business Analytics enthusiast passionate about turning data into actionable insights. I specialize in creating interactive dashboards and Data modelling.
+I'm a Business Analytics enthusiast passionate about turning data into actionable insights. I specialize in creating interactive dashboards and Data modelling.
 ---
 
 ## 🛠️ Tech & Tools
@@ -33,9 +33,9 @@ I'm Dhruv Verma — a Business Analytics enthusiast passionate about turning dat
 
 ## 🙋‍♂️ Quick Facts
 
-- 🔭 I’m currently working on expanding my data visualization portfolio  
-- 🤝 I’m looking to collaborate on dashboard and analytics projects  
-- 🌱 I’m currently learning SQL and DAX  
+-  I’m currently working on expanding my data visualization portfolio  
+-  I’m looking to collaborate on dashboard and analytics projects  
+-  I’m currently learning SQL and DAX  
   
 
 
@@ -43,7 +43,6 @@ I'm Dhruv Verma — a Business Analytics enthusiast passionate about turning dat
 
 - 💼 [LinkedIn](https://linkedin.com/in/dhruvermaa)
 - 📬 Email: dhruv200310@gmail.com
-- 📊 [Tableau Public](https://public.tableau.com/app/profile/yourusername)
 
 ---
 
